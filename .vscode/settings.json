@@ -1,0 +1,7 @@
+{
+    "prettier.enable": false,
+    "oxc.enable": true,
+    "oxc.fmt.configPath": ".oxfmtrc.json",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+}
